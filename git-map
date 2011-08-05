@@ -1,6 +1,7 @@
 #!/bin/bash
 #
-# git-map is a tool to execute a Git command in multiple git directories.
+# git-map is a tool to execute a Git command in multiple Git repositories
+# that are located in the same directory.
 #
 # Copyright (c) 2011, Benjamin C. Meyer <ben@meyerhome.net>
 # All rights reserved.
