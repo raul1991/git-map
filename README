@@ -18,3 +18,8 @@ Example
 
 If you are in ~/dev/projectA and running 'git map pull --rebase' will execute 'git pull --rebase' in repo1, repo2, and repo3.
 If you are in ~/dev/projectA/repo1/some/sub/directory and run 'git map pull --rebase' it will do the same thing.
+
+INSTALL
+=======
+
+Add the location of git-map to your PATH or install it in a location that is already in your PATH such as $HOME/bin 
